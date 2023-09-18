@@ -3,13 +3,11 @@
 ## Componentes del laboratorio ##
 
 El siguiente laboratorio esta compuesto de dos directorios principales los cuales contienen:
-1. **Ejercicios de refuerzo**: En este directorio hay varios ejercicios sencillos cuyo objetivo es reforzar los conceptos teoricos y practicos relacionados con el manejo procesos ([link](./ejercicios_refuerzo)).
+1. **Ejercicios de refuerzo**: En este directorio hay varios ejercicios sencillos cuyo objetivo es reforzar los conceptos teoricos y practicos relacionados con el manejo procesos ([link](./ejercicios_refuerzo)). Estos ejercicios son opcionales y no se requiere entregar nada relacionado con su solucion, son solo para afianzar conceptos.
 2. **Enunciado**: Contiene el enunciado y las instrucciones de la practica de laboratorio ([link](./enunciado)).
    
 ## Actividad a realizar ## 
-Para el siguiente laboratorio se deben realizar los siguientes ejercicios:
-1. Del directorio de [ejercicios de refuerzo](./ejercicios_refuerzo) realizar solo el **ejercicio 7** de la sección de **problemas de programación**.
-2. Realizar el **shell de unix** propuesto en la carpeta [enunciado](./enunciado) empleando los diferentes test que se brindan para tal fin.
+En este laboratorio se debe realizar el **shell de unix** propuesto en la carpeta [enunciado](./enunciado) empleando los diferentes test que se brindan para tal fin.
 
 ## Material a la mano ##
 
@@ -27,5 +25,4 @@ Para poder realizar la practica, es necesario comprender cabalmente los siguient
    
 Si no maneja estos conceptos; sobre el primero, por favor estudielos con detenimiento, de la comprensión de estos depende el desarrollo de la practica. Tambien, revise la teoria mas simple en caso de no creer tener la suficiente familiaridad con el lenguaje C. Es necesario la comprensión de conceptos mas basicos en C para poder manejar archivos como la implementación de funciones, el manejo de punteros y los arreglos.
 
-Tenga además en cuenta que se agregan bastantes ejemplos con el fin de que los analice con el fin de comprenderlos. Si tiene dificultades para entenderlos pregunte sin pena en el foro de piazza del curso y vea los videos que allí se compartieron. Recuerden, No hay pregunta boba, bobo es el que no pregunta
-
+Tenga además en cuenta que se agregan bastantes ejemplos, analicelos hasta comprenderlos. Si tiene dificultades para entenderlos pregunte sin pena en el foro del moodle.
